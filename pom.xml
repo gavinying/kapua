@@ -1053,6 +1053,9 @@
 
         <module>sso</module>
 
+        <!-- Extras  -->
+        <module>extras</module>
+        
         <!-- Applications -->
         <module>rest-api</module>
 
